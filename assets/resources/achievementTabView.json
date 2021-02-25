@@ -1,0 +1,809 @@
+{
+  "frames": {
+    "achievementRowBG": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 97,
+        "y": 2,
+        "w": 658,
+        "h": 121
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 658,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 659,
+        "h": 122
+      }
+    },
+    "basicMasteryTab": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 45,
+        "y": 473,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "basicMasteryTabClick": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 190,
+        "y": 473,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "beFriends": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 321,
+        "w": 84,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 91
+      }
+    },
+    "wicked": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 321,
+        "w": 84,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 85,
+        "h": 91
+      }
+    },
+    "bully": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 600,
+        "y": 320,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "classicTab": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 335,
+        "y": 473,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "classicTabClick": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 480,
+        "y": 473,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "collectBtn": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 529,
+        "y": 125,
+        "w": 93,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 93,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 102
+      }
+    },
+    "collectNumberBG": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 488,
+        "w": 41,
+        "h": 43
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 41,
+        "h": 43
+      }
+    },
+    "finishedIcon": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 434,
+        "y": 130,
+        "w": 93,
+        "h": 95
+      },
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 93,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 101,
+        "h": 102
+      }
+    },
+    "firstRace": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 514,
+        "y": 321,
+        "w": 84,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 90
+      }
+    },
+    "firstStep": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 686,
+        "y": 320,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "flyingMan": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 228,
+        "w": 85,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "formidable": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 89,
+        "y": 228,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "goodExperience": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 88,
+        "y": 321,
+        "w": 83,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "greatDice": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 173,
+        "y": 321,
+        "w": 84,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 84,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "indignant": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 175,
+        "y": 228,
+        "w": 85,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "invincible": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 259,
+        "y": 321,
+        "w": 83,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "keepPerformance": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 346,
+        "y": 133,
+        "w": 86,
+        "h": 93
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "legion": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 262,
+        "y": 228,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "loveIt": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 348,
+        "y": 228,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "loveToFly": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 344,
+        "y": 321,
+        "w": 83,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "missIt": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 434,
+        "y": 228,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "newGuy": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 520,
+        "y": 227,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "openArmed": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 606,
+        "y": 227,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "rewardElementBG": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 624,
+        "y": 125,
+        "w": 85,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 4,
+        "w": 85,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 105
+      }
+    },
+    "shoppingTab": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 625,
+        "y": 473,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "shoppingTabClick": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 413,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "tactician": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 692,
+        "y": 227,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "tacticsTab": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 147,
+        "y": 413,
+        "w": 142,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 58
+      }
+    },
+    "tacticsTabClick": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 581,
+        "y": 413,
+        "w": 142,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 58
+      }
+    },
+    "theLand": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 135,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "timeBomb": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 88,
+        "y": 135,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "tournamentTab": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 291,
+        "y": 413,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "tournamentTabClick": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 436,
+        "y": 413,
+        "w": 143,
+        "h": 58
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 143,
+        "h": 58
+      }
+    },
+    "trailblazer": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 174,
+        "y": 135,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "trapper": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 260,
+        "y": 135,
+        "w": 84,
+        "h": 91
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 84,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 93
+      }
+    },
+    "viewRewardBtn": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 33,
+        "w": 93,
+        "h": 100
+      },
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 93,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 102
+      }
+    },
+    "wealth": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 429,
+        "y": 321,
+        "w": 83,
+        "h": 90
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 95
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "achievementTabView.png"
+  }
+}
