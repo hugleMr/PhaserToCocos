@@ -36,13 +36,8 @@ export class NewClass extends cc.Component {
                 "h": ""
             }
         }
-
-        console.log(this.json.json.frames);
-        console.log(Object.keys(this.json.json.frames).length);
         let list = this.json.json.frames;
         let listName = Array.from(Object.keys(list));
-
-        console.log(listName);
         
         let allItem = [];
         let index = -1;
@@ -85,7 +80,21 @@ export class NewClass extends cc.Component {
 
         text += this.getTextMetaData();
 
-        console.log(text);
+        return text;
+    }
+
+    convertToPlist(){
+        const el = document.createElement('textarea');
+        el.value = this.convert();
+        document.body.appendChild(el);
+        el.select();
+        
+        document.execCommand('copy');
+        document.body.removeChild(el);
+
+        let status = this.node.getChildByName("status").getComponent(cc.Label);
+        status.node.color = cc.Color.YELLOW;
+        status.string = "Copy to clipboard successfully!";
     }
 
     getImgSize(){
